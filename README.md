@@ -1,4 +1,4 @@
-# Salaries-Analysis-in-Egypt
+# Salaries Analysis in Egypt
 ### About Project:
 A project focuses on analyzing trends and patterns in Salaries in Egypt for the year 2025. The project mainly focuses on the reasons for diversity in salaries in the tech field.
 
